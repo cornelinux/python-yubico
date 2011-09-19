@@ -1,3 +1,12 @@
+Thanks to Yubico for providing the library to use the Yubikey with python.
+
+We needed to change some minor things to make it work for us on Windows.
+Author: Cornelius Kölbel <cornelius.koelbel@lsexperts.de>
+
+For further notes see the original package of Yubico AB.
+
+---------------------------------------------------------------------------
+
 Python package for talking to YubiKeys.
 
 Author : Fredrik Thulin <fredrik@yubico.com>
